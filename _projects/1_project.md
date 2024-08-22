@@ -12,7 +12,7 @@ In this project, we explored the integration of deep learning into the RRT* (Rap
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe id="myEmbedOne" src="https://yuanhaochen.github.io/assets/pdf/MAE-598.pdf" width=900 height=1000 />
+        <iframe id="myEmbedOne" src="https://CatchYHand.github.io/assets/pdf/MAE-598.pdf" width=900 height=1000 />
     </div>
 </div>
 
