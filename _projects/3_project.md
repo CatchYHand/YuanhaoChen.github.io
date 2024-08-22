@@ -10,6 +10,6 @@ category: fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe id="myEmbedThree" src="https://bluestar2333.github.io/assets/pdf/Parkour.pdf" width=900 height=1000 />
+        <iframe id="myEmbedThree" src="https://yuanhaochen.github.io/assets/pdf/Parkour.pdf" width=900 height=1000 />
     </div>
 </div>
